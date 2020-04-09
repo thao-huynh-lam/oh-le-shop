@@ -98,6 +98,7 @@ class App extends Component {
     this.setState({ size: e.target.value });
     this.listProducts();
   };
+  
 
   render() {
     return (

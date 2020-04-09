@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 101,
+      "title": "Gigima Dress",
+      "desc": "White Gigima",
+      "availableSizes": ["M", "X", "L", "XXL"],
+      "price": 57.6
+      
+    },
+
+    {
+      "id": 2,
+      "sku": 102,
+      "title": "Talio Dress",
+      "desc": "Pink Talio",
+      "availableSizes": ["X", "XS", "XL"],
+      "price": 46.4
+      
+    },
+
+    {
+      "id": 3,
+      "sku": 103,
+      "title": "Lency Dress",
+      "desc": "Grey Lency",
+      "availableSizes": ["XL", "XS", "L"],
+      "price": 62.5
+      
+    },
+
+    {
+      "id": 4,
+      "sku": 104,
+      "title": "Maison Puma Dress",
+      "desc": "Maison Puma",
+      "availableSizes": ["XL", "M", "X"],
+      "price": 71.4
+      
+    },
+
+    {
+      "id": 5,
+      "sku": 105,
+      "title": "Kendan Dress",
+      "desc": "Kendan",
+      "availableSizes": ["S", "M", "XL"],
+      "price": 48.9
+      
+    },
+
+    {
+      "id": 6,
+      "sku": 106,
+      "title": "Bohemian Javit Dress",
+      "desc": "Bohemian Javit",
+      "availableSizes": ["M", "L", "XXL"],
+      "price": 56.2
+      
+    },
+
+    {
+      "id": 7,
+      "sku": 107,
+      "title": "Bortino Dress",
+      "desc": "Bortino",
+      "availableSizes": ["S", "M", "XL" ],
+      "style": "Trending",
+      "price": 67.4
+      
+    },
+
+    {
+      "id": 8,
+      "sku": 108,
+      "title": "Vimita Dress",
+      "desc": "Vimita",
+      "availableSizes": ["M", "L"],
+      "style": "Vintage",
+      "price": 52.8
+      
+    },
+    {
+      "id": 9,
+      "sku": 109,
+      "title": "Moltery Dress",
+      "desc": "",
+      "availableSizes": ["XS", "S", "XL"],
+      "price": 48.4
+      
+    },
+    {
+      "id": 10,
+      "sku": 110,
+      "title": "Parteno Dress",
+      "desc": "",
+      "availableSizes": ["M", "S", "XS"],
+      "price": 46.3
+      
+    },
+    {
+      "id": 11,
+      "sku": 111,
+      "title": "Panemi Dress",
+      "desc": "",
+      "availableSizes": ["L", "XXL"],
+      "price": 54.7
+      
+    },
+    {
+      "id": 12,
+      "sku": 112,
+      "title": "Berguton Dress",
+      "desc": "Berguton Dress",
+      "availableSizes": ["M", "S", "L"],
+      "price": 61.3
+      
+    }
+
+
+
+
+
+  ]
+}
